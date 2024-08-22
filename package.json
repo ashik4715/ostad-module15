@@ -1,0 +1,13 @@
+{
+  "name": "ostad-module15",
+  "version": "1.0.0",
+  "description": "An assignment of Module-Fifeteen for OSTAD-APP Batch-6 to contribute.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
