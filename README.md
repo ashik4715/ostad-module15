@@ -1,8 +1,8 @@
 # Ostad Module15 Assignment Two
 An assignment of Module-Fifeteen for OSTAD-APP Batch-6 to contribute.
 
-# Vercel Live URL Link
+# Github Live URL Link
 ```bash
-# Live URL of Vercel
-https://ostad-mod5.vercel.app
+# Live URL of Github
+https://github.com/ashik4715/ostad-module15
 ```
